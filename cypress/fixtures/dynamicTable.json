@@ -1,0 +1,8 @@
+{
+    "tableLink": "a[href='/dynamictable']",
+    "chromeRow": "div[role='rowgroup'] div[role='row']",
+    "cpuRow": "div[role='rowgroup'] div[role='row'] span",
+    "cpuValue": "span[role='cell']",
+    "yellowLabel": "//p[@class='bg-warning']"
+
+}

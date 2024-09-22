@@ -1,0 +1,5 @@
+{
+    "alertsLink": "a[href='/alerts']",
+    "alertBtn": "#alertButton",
+    "alertText": "Today is a working day.\nOr less likely a holiday."
+}

@@ -1,0 +1,9 @@
+{
+    
+    "fileUploadLink": "a[href='/upload']",
+    "iframe": "//iframe[@src='/static/upload.html']",
+    "browseFileBtn": "label[for='browse']",
+    "filePath": "cypress/support/Files/myfile.txt",
+    "uploadBox": ".document-uploader.upload-box",
+    "confirmField": "div[class='success-file'] p"
+}

@@ -1,0 +1,9 @@
+{
+    "sampleApp": "a[href='/sampleapp']",
+    "userNameField": "input[name='UserName']",
+    "passwordField": "input[name='Password']",
+    "userName": "user1",
+    "password": "pwd",
+    "loginBtn": "#login",
+    "loginStatus": "#loginstatus"
+}

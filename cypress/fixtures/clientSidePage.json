@@ -1,0 +1,5 @@
+{
+  "clientDelay": "a[href='/clientdelay']",
+  "button": "#ajaxButton",
+  "successLabel": ".bg-success"
+}

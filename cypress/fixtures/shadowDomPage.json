@@ -1,0 +1,8 @@
+{
+
+    "shadowDomLink": "a[href='/shadowdom']",
+    "shadowDom": "guid-generator",
+    "settingsBtn": "#buttonGenerate",
+    "copyBtn": "#buttonCopy",
+    "editField": "#editField"
+}
