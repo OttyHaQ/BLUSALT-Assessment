@@ -3,7 +3,7 @@
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor"
 
 Given('I visit the website', () => {
-    cy.visit("https://www.uitestingplayground.com/")
+    cy.visit("/")
   })
   
 When('I click on Dynamic Table', () => {

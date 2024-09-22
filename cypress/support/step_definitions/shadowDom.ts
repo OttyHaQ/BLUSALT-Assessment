@@ -4,7 +4,7 @@ import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor"
 
 
 Given('I want to copy to a clipboard', () => {
-    cy.visit("https://www.uitestingplayground.com/")
+    cy.visit("/")
 })
 When('I click on Shadow Dom', () =>{
     cy.fixture("shadowDomPage.json").then((shadow) =>{

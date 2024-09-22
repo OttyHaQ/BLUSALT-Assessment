@@ -24,7 +24,7 @@ async function setupNodeEvents(
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://www.automationexercise.com/",
+    baseUrl: "https://www.uitestingplayground.com",
     defaultCommandTimeout: 30000,
     pageLoadTimeout: 60000,
     watchForFileChanges: false,

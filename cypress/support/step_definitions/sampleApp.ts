@@ -4,7 +4,7 @@ import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor"
 
 
 Given('I want to login', () => {
-    cy.visit("https://www.uitestingplayground.com/")
+    cy.visit("/")
 })
 When('I click on Sample App', () =>{
     cy.fixture("sampleAppPage.json").then((sampleApp) => {

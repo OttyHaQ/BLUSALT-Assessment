@@ -4,7 +4,7 @@ import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor"
 
 
 Given('I have alert buttons', () =>{
-    cy.visit("https://www.uitestingplayground.com/")
+    cy.visit("/")
 })
 When('I click on Alerts', () =>{
     cy.fixture("alertsPage.json").then((alert) =>{

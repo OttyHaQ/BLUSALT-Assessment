@@ -32,7 +32,7 @@ Then('The file should be selected', () => {
 
 
 Given('I want to attach a file using `Browse files` button', () => {
-    cy.visit("https://www.uitestingplayground.com/")
+    cy.visit("/")
 })
 When('I browse and select a File', () => {
     cy.xpath("//iframe[@src='/static/upload.html']")
