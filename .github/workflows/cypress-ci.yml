@@ -1,4 +1,4 @@
-name: Cypress BDD CI
+name: Assessment CI
 
 
 on:
